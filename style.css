@@ -62,3 +62,11 @@ body{
 #button:focus{
     outline: none;
 }
+
+footer{
+    margin-top: 5rem;
+    font-size: 20px;
+}
+footer a{
+    text-decoration: none;
+}
