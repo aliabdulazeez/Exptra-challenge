@@ -32,12 +32,12 @@ body{
     align-items: center;
     justify-content: space-around;
     margin: 20px;
-    padding: 0 10px 0 10px;
+    padding: 0 15px 0 15px;
     cursor: pointer;
 
 }
 .items p{
-    margin-top: -1rem;
+    margin-top: 3px;
 }
 
 .items:hover{
@@ -91,7 +91,7 @@ footer a{
         justify-content: space-around;
         margin: 15px;
         margin-bottom: 20px;
-        padding: 0 10px 0 10px;
+        padding: 5px 10px 5px 10px;
         cursor: pointer;
     
     }
