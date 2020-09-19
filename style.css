@@ -37,7 +37,7 @@ body{
 
 }
 .items p{
-    margin-top: -2rem;
+    margin-top: -1rem;
 }
 
 .items:hover{
@@ -69,4 +69,18 @@ footer{
 }
 footer a{
     text-decoration: none;
+}
+
+@media screen and (max-width: 600px){
+    .container{
+        flex-direction: column;
+        margin-top: 5rem;
+        height: 70vh;
+        font-size: 15px;
+
+    }
+
+    footer{
+        margin-top: 2rem;
+    }
 }
