@@ -33,11 +33,18 @@ body{
     justify-content: space-around;
     margin: 20px;
     padding: 0 10px 0 10px;
+    cursor: pointer;
 
 }
 .items p{
     margin-top: -2rem;
 }
+
+.items:hover{
+    transform: translate(-1px,-5px);
+}
+
+
 
 #button{
     
